@@ -1,6 +1,11 @@
 _repo: _61366
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61366-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61366#
 gutenberg_issued: '2020-02-07'
 gutenberg_type: Text
 identifiers:
